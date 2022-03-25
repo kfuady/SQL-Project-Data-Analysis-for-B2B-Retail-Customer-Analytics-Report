@@ -1,5 +1,3 @@
-USE dqlab;
-
 -- Memahami table
 SELECT
     *
